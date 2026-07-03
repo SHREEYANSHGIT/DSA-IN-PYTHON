@@ -5,17 +5,11 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        prefixsum = [0]*n
-        sufixsum = [0]*n
-
-        for i in range(1,n):
-            prefixsum[i] = prefixsum[i-1] + nums[i-1]
-        
-        for j in range(n-2,-1,-1):
-            sufixsum[j] = sufixsum[j+1] + nums[j+1]
-        
-        for k in range(n) :
-            if sufixsum[k]==prefixsum[k]:
-                return k
+        totalsum = sum(nums)
+        left = 0
+        for i in range (n):
+            if left == totalsum - left - nums[i]:
+                return i
+            left += nums[i]
 
         return -1
