@@ -9,8 +9,7 @@ class Solution(object):
         slow = head
         fast = head
 
-        if head is None:
-            return False
+
 
         while fast and fast.next:
             fast = fast.next.next
