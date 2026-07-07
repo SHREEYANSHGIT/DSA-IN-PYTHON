@@ -12,11 +12,13 @@ class Solution(object):
         while l1 or l2 or carry !=0:
             if l1 :
                 v1 = l1.val
+                l1 = l1.next
             else:
                 v1 = 0
             
             if l2:
                 v2 = l2.val
+                l2 = l2.next
             else:
                 v2 =0
             
@@ -26,11 +28,6 @@ class Solution(object):
             newval = total%10
             curr.next = ListNode(newval)
             curr = curr.next
-        
-            if l1:
-                l1 = l1.next
-            if l2:
-                l2 = l2.next
             
         headnode = nonenode.next
 
