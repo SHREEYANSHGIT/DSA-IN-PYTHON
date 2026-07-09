@@ -4,28 +4,24 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
 class Solution(object):
     def rightSideView(self, root):
         if root is None:
             return []
 
-        q = deque([root])
-        ans = []
+        res = []
+        
 
-        while q:
-            level = []
-            size = len(q)
+        def reversepostorder(root,level,res):
+            if not root:
+                return 
+            if level == len(res):
+                res.append(root.val)
 
-            for _ in range(size):
-                node = q.popleft()
-                level.append(node.val)
-
-                if node.left:
-                    q.append(node.left)
-
-                if node.right:
-                    q.append(node.right)
-
-            ans.append(level[-1])
-
-        return ans
+            reversepostorder(root.right,level +1,res)
+            reversepostorder(root.left,level +1,res)
+        
+        reversepostorder(root,0,res)
+        
+        return res
