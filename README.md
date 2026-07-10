@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0560-subarray-sum-equals-k) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
@@ -75,6 +77,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -119,4 +122,12 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0199-binary-tree-right-side-view) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
