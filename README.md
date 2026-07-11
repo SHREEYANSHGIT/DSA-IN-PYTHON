@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0525-contiguous-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
@@ -130,4 +131,20 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
