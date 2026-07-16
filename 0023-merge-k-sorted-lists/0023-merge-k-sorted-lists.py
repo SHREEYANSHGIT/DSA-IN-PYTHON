@@ -10,13 +10,13 @@ class Solution(object):
         heap = []
 
         for i in range(len(lists)):
-            if lists[i]:
+            if lists[i]: ## if list node first element can be None but second can be value for this case this condition use
                 heapq.heappush(heap,(lists[i].val, i , lists[i]))
         
         ## create a new list for merge
 
-        head = ListNode(0)
-        tail = head
+        newhead = ListNode(0)
+        tail = newhead
 
         while heap:
 
@@ -28,7 +28,7 @@ class Solution(object):
            if node.next:
             heapq.heappush(heap,(node.next.val , index ,node.next))
 
-        return head.next
+        return newhead.next
 
 
         
