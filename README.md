@@ -16,6 +16,7 @@
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -136,6 +137,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
