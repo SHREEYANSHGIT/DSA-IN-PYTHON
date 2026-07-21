@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
@@ -139,12 +140,14 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
