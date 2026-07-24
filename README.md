@@ -1,6 +1,6 @@
 # DSA-IN-PYTHON
 
-**_"THIS IS FOR TO TRACK MY DSA PREP"_**
+**_"THIS IS FOR TO TRACK MY DSA PREPRATION"_**
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
