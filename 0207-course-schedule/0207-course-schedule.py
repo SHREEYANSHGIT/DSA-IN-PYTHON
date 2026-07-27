@@ -3,8 +3,8 @@ class Solution(object):
         adj = [[] for _ in range(numCourses)]
         indegree = [0]*numCourses
         for u,v in prerequisites:
-            adj[v].append(u)
-            indegree[u] +=1
+            adj[u].append(v)
+            indegree[v] +=1
 
         queue = deque()
         counter = 0
