@@ -131,6 +131,7 @@
 | [0210-course-schedule-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
@@ -162,6 +163,7 @@
 | [0210-course-schedule-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
@@ -198,6 +200,7 @@
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -255,6 +258,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
@@ -263,4 +267,12 @@
 | [0207-course-schedule](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
