@@ -9,21 +9,21 @@ class Solution(object):
             adj[u].append((v, price))
 
         # At most k stops means at most k+1 flights
-        max_flights = k 
+        max_flights = k + 1
 
-        # (cost, node, flights_used)
-        heap = [(0, src, 0)]
+        queue =deque()        
+        queue.append((0, src, 0))
 
         # Best number of flights used when reaching each node
         distance = [float("inf")] * n
         distance [src] = 0
 
-        while heap:
+        while queue:
 
-            kth, node, cost = heapq.heappop(heap)
+            kth, node, cost = queue.popleft()
     
 
-            if kth > max_flights:
+            if kth >= max_flights:
                 continue
 
             for nb, price in adj[node]:
@@ -35,10 +35,7 @@ class Solution(object):
 
                     distance[nb] = new_cost
 
-                    heapq.heappush(
-                        heap,
-                        (nkth, nb, new_cost)
-                    )
+                    queue.append((nkth, nb, new_cost))
         if distance[dst]!= float("inf"):
             return distance[dst]
         return -1
