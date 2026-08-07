@@ -138,6 +138,7 @@
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
@@ -173,6 +174,7 @@
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -274,6 +278,7 @@
 | [0210-course-schedule-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -285,6 +290,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
