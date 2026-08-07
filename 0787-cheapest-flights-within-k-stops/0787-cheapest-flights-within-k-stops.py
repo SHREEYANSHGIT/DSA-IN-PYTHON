@@ -9,7 +9,7 @@ class Solution(object):
             adj[u].append((v, price))
 
         # At most k stops means at most k+1 flights
-        max_flights = k + 1
+        max_flights = k 
 
         # (cost, node, flights_used)
         heap = [(0, src, 0)]
@@ -23,7 +23,7 @@ class Solution(object):
             kth, node, cost = heapq.heappop(heap)
     
 
-            if kth >= max_flights:
+            if kth > max_flights:
                 continue
 
             for nb, price in adj[node]:
