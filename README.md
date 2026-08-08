@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -301,4 +303,8 @@
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
