@@ -2,7 +2,7 @@ class Solution:
     def solve(self, index, nums, dp):
         if index == 0:
             return nums[index]
-        if index == -1:
+        if index <= -1:
             return 0
         if dp[index] != -1:
             return dp[index]
