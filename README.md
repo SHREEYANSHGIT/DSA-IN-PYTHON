@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
