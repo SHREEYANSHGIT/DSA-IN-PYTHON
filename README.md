@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0200-number-of-islands) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
@@ -263,6 +265,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
