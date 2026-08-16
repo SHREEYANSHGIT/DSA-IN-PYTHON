@@ -39,7 +39,7 @@ class Solution(object):
         for c in range(cols):
             if board[r][c] == "O" and visited[r][c] == 0:
                 self.dfs(r,c,visited,cols,rows,board)       
-        
+        ## filling the "x" on board
         for i in range(rows):
             for j in range(cols):
                 if board[i][j]=="O" and visited[i][j]==0:
