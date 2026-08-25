@@ -1,34 +1,34 @@
 class Solution(object):
-    
-
-    def find(self, i, j, matrix,dp):
-        
-        # Base case: reached last row
-        if j < 0 or j >= len(matrix[0]):
-            return float("inf")
-        if i == len(matrix) - 1:
-            return matrix[i][j]
-        if dp[i][j] != "x":
-            return dp[i][j]
-
-        left = self.find(i + 1, j - 1, matrix,dp)
-        down = self.find(i + 1, j, matrix,dp)
-        right = self.find(i + 1, j + 1, matrix,dp)
-        dp[i][j] = matrix[i][j] + min(left, right,down)
-        return dp[i][j] 
 
     def minFallingPathSum(self, matrix):
-        n = len(matrix[0])
-        m = len(matrix)
-        dp = [["x"] * n for _ in range(n)]
-        dp[-1] = matrix[-1][:]
-        result = float("inf")
-        for j in range(n):
-            ans = self.find(0, j, matrix,dp)
-            if ans < result :
-                result = ans
 
-        return result
-        
-        
-        
+        n = len(matrix)
+
+        dp = [[0] * n for _ in range(n)]
+
+        # Base case: last row
+        dp[n-1] = matrix[n-1][:]
+
+        # Bottom -> top
+        for i in range(n-2, -1, -1):
+
+            for j in range(n):
+
+                # Down
+                down = dp[i+1][j]
+
+                # Left-down
+                if j > 0:
+                    left = dp[i+1][j-1]
+                else:
+                    left = float("inf")
+
+                # Right-down
+                if j < n-1:
+                    right = dp[i+1][j+1]
+                else:
+                    right = float("inf")
+                dp[i][j] = matrix[i][j] + min(left, down, right)
+                ans = dp[i][j]
+
+        return min(dp[0])
