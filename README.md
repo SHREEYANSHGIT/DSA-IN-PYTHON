@@ -26,6 +26,7 @@
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
@@ -203,6 +204,7 @@
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0931-minimum-falling-path-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Stack
 |  |
@@ -276,6 +278,7 @@
 | [0200-number-of-islands](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1091-shortest-path-in-binary-matrix) |
