@@ -4,10 +4,10 @@ class Solution(object):
 
         n = len(matrix)
 
-        dp = [[0] * n for _ in range(n)]
+        curr = ["x"]*n
 
         # Base case: last row
-        dp[n-1] = matrix[n-1][:]
+        prev = matrix[n-1][:]
 
         # Bottom -> top
         for i in range(n-2, -1, -1):
@@ -15,20 +15,21 @@ class Solution(object):
             for j in range(n):
 
                 # Down
-                down = dp[i+1][j]
+                down = prev[j]
 
                 # Left-down
                 if j > 0:
-                    left = dp[i+1][j-1]
+                    left = prev[j-1]
                 else:
                     left = float("inf")
 
                 # Right-down
                 if j < n-1:
-                    right = dp[i+1][j+1]
+                    right = prev[j+1]
                 else:
                     right = float("inf")
-                dp[i][j] = matrix[i][j] + min(left, down, right)
-                ans = dp[i][j]
+                curr[j] = matrix[i][j] + min(left, down, right)
+            prev = curr
+            curr = ["x"]*n 
 
-        return min(dp[0])
+        return min(prev)
