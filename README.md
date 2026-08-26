@@ -14,6 +14,7 @@
 | [0120-triangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
@@ -75,6 +76,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
