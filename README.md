@@ -12,6 +12,7 @@
 | [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
@@ -288,6 +290,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
