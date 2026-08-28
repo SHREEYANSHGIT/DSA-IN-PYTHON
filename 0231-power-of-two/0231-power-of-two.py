@@ -1,14 +1,8 @@
 class Solution(object):
     def isPowerOfTwo(self, n):
-        x = 1
-
-        if n <= 0:
+        if n<= 0:
             return False
-
-        while x <= n:
-            if x == n :
-                return True
-            
-            x = x * 2
+        if n > 0 and (n & (n-1)) == 0:
+            return True
 
         return False 
