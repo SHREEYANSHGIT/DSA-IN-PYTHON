@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
 ## Sliding Window
@@ -203,6 +204,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
@@ -305,6 +307,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 ## Graph Theory
 |  |
@@ -355,4 +358,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
