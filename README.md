@@ -31,6 +31,7 @@
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
@@ -70,6 +71,7 @@
 | [0525-contiguous-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
@@ -85,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
