@@ -45,6 +45,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0931-minimum-falling-path-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Stack
 |  |
