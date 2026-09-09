@@ -58,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0523-continuous-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -91,12 +93,14 @@
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0992-subarrays-with-k-different-integers) |
