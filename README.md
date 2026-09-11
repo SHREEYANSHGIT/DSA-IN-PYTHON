@@ -56,6 +56,7 @@
 | [0061-rotate-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
@@ -149,6 +150,7 @@
 | [0141-linked-list-cycle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -159,6 +161,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
