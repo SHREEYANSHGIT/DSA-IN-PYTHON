@@ -33,6 +33,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0918-maximum-sum-circular-subarray) |
@@ -183,6 +184,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
