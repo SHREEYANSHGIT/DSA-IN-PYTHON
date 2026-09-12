@@ -6,9 +6,13 @@ class Solution(object):
         for ch in s:
             hm[ch] = hm.get(ch, 0) + 1
 
-        sorted_hm = sorted(hm.items(), key=lambda x: x[1], reverse=True)
+        bucket = [[] for _ in range(len(s) + 1)]
+        n = len(bucket)
 
-        for ch, freq in sorted_hm:
-            ans += ch * freq
+        for ch, freq in hm.items():
+            bucket[freq].append(ch)
 
+        for i in range(len(s),0,-1):
+            for ch in bucket[i]:
+                ans += ch * i
         return ans
