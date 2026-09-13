@@ -13,6 +13,7 @@
 | [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0130-surrounded-regions) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
@@ -444,4 +447,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0918-maximum-sum-circular-subarray) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
