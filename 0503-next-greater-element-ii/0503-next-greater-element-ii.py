@@ -9,9 +9,8 @@ class Solution(object):
             while st and nums[st[-1]] <= nums[i] :
                 st.pop()
             
-            if j<n:
-                if st:
-                    ans[i] = nums[st[-1]]
+            if j<n and st:
+                ans[i] = nums[st[-1]]
             st.append(i)
         
         return ans
