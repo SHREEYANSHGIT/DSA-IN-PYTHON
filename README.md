@@ -75,6 +75,7 @@
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -200,6 +202,7 @@
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -452,6 +455,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
