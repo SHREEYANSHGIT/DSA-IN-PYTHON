@@ -106,6 +106,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
@@ -191,6 +192,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0085-maximal-rectangle) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
@@ -455,6 +458,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Pigeonhole Principle
 |  |
