@@ -10,12 +10,18 @@ class Solution(object):
             st.append(c)
             c = c.next
 
+        keep = set(st)
+
         dummy = ListNode(0)
         prev = dummy
+        curr = head
 
-        for node in st:
-            prev.next = node
-            prev = node
+        while curr:
+            if curr in keep:
+                prev.next = curr
+                prev = curr
+
+            curr = curr.next
 
         prev.next = None
 
