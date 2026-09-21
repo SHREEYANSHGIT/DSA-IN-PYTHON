@@ -170,6 +170,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2487-remove-nodes-from-linked-list) |
@@ -192,6 +193,7 @@
 | [0066-plus-one](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
@@ -206,6 +208,7 @@
 | [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
