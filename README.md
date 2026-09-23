@@ -112,6 +112,7 @@
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -185,6 +186,7 @@
 | [0206-reverse-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
@@ -208,6 +210,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
