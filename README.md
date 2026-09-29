@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0200-number-of-islands) |
@@ -91,6 +92,7 @@
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
@@ -118,6 +120,7 @@
 | [0076-minimum-window-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
@@ -319,6 +322,7 @@
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
@@ -468,6 +472,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -518,4 +523,12 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
