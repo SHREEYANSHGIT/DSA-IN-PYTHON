@@ -134,6 +134,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1108-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1019-next-greater-node-in-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
@@ -521,6 +523,7 @@
 | [0735-asteroid-collision](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
