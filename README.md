@@ -26,6 +26,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
@@ -531,4 +533,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
