@@ -73,6 +73,7 @@
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
@@ -157,6 +158,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
@@ -217,6 +219,7 @@
 | [0231-power-of-two](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
