@@ -63,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
@@ -328,6 +330,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
@@ -566,4 +569,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
