@@ -88,6 +88,7 @@
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -136,6 +137,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1108-defanging-an-ip-address) |
@@ -242,6 +244,7 @@
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -348,6 +351,7 @@
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0918-maximum-sum-circular-subarray) |
@@ -518,6 +522,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Pigeonhole Principle
 |  |
