@@ -1,26 +1,30 @@
 class Solution(object):
     def checkValidString(self, s):
-        low = 0
-        high = 0
+        st1 = []  # indices of '('
+        st2 = []  # indices of '*'
 
-        for ch in s:
+        for i in range(len(s)):
 
-            if ch == "(":
-                low += 1
-                high += 1
+            if s[i] == "(":
+                st1.append(i)
 
-            elif ch == ")":
-                low -= 1
-                high -= 1
+            elif s[i] == "*":
+                st2.append(i)
 
-            else:  # '*'
-                low -= 1
-                high += 1
+            else:  # ')'
+                if st1:
+                    st1.pop()
+                elif st2:
+                    st2.pop()
+                else:
+                    return False
 
-            if high < 0:
+        # Match remaining '(' with '*' that occur AFTER them
+        while st1 and st2:
+            if st1[-1] < st2[-1]:
+                st1.pop()
+                st2.pop()
+            else:
                 return False
 
-            if low < 0:
-                low = 0
-
-        return low == 0
+        return len(st1) == 0
