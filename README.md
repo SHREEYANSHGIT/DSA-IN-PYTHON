@@ -14,6 +14,7 @@
 | [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0120-triangle) |
@@ -474,6 +475,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 ## Graph Theory
 |  |
@@ -516,6 +518,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0231-power-of-two) |
