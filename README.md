@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0064-minimum-path-sum) |
@@ -487,6 +488,7 @@
 | [0022-generate-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
@@ -608,4 +610,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0005-longest-palindromic-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
