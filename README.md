@@ -65,6 +65,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2073-time-needed-to-buy-tickets) |
+| [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
+| [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
+| [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -467,6 +470,7 @@
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
+| [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 ## Union-Find
 |  |
 | ------- |
@@ -571,6 +575,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
+| [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search Tree
 |  |
 | ------- |
