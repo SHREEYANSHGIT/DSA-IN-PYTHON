@@ -137,6 +137,7 @@
 | [0076-minimum-window-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0316-remove-duplicate-letters) |
@@ -356,6 +357,7 @@
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
@@ -483,6 +485,7 @@
 | [0040-combination-sum-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0216-combination-sum-iii) |
 ## Graph Theory
 |  |
