@@ -61,6 +61,7 @@
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
+| [1219-path-with-maximum-gold](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1219-path-with-maximum-gold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -474,6 +475,7 @@
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1219-path-with-maximum-gold) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 ## Union-Find
@@ -500,6 +502,7 @@
 | [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
+| [1219-path-with-maximum-gold](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1219-path-with-maximum-gold) |
 ## Graph Theory
 |  |
 | ------- |
