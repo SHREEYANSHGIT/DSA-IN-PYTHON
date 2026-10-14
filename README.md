@@ -36,6 +36,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0525-contiguous-array) |
@@ -368,6 +369,7 @@
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0746-min-cost-climbing-stairs) |
@@ -497,6 +499,7 @@
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0216-combination-sum-iii) |
+| [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
 ## Graph Theory
 |  |
 | ------- |
@@ -542,6 +545,7 @@
 | [0136-single-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0231-power-of-two) |
+| [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0476-number-complement) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Quicksort
@@ -618,4 +622,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0051-n-queens) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
