@@ -7,10 +7,15 @@ class Solution(object):
         for i,j in intervals:
             if i < prevj:
                 c +=1
-                prevj = min(prevj, j)
+                if j < prevj:
+                    prevj = j
+                    previ = i
+                if j == prevj :
+                    if i > previ:
+                        previ = i 
 
             else:
-                
+                previ = i
                 prevj = j 
         return c
 
