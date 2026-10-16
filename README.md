@@ -36,6 +36,7 @@
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
@@ -102,6 +103,7 @@
 | [0316-remove-duplicate-letters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
@@ -379,6 +381,7 @@
 | [0198-house-robber](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
@@ -417,6 +420,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
