@@ -1,24 +1,26 @@
 
 class Solution(object):
-    def numDecodings(self, s):
-        n = len(s)
-        dp = [0] * (n + 1)
+    def find(self, i, s, c, dp):
+        if i == len(s):
+            return 1
 
-        dp[0] = 1
-
-        if s[0] == "0":
+        if s[i] == '0':
             return 0
 
-        dp[1] = 1
+        if i in dp:
+            return dp[i]
 
-        for i in range(2, n + 1):
-            last = dp[i - 1]
-            slast = dp[i - 2]
+        c = 0
 
-            if s[i - 1] != "0":
-                dp[i] += last
+        for j in range(i, min(i + 2, len(s))):
+            a = s[i:j+1]
 
-            if 10 <= int(s[i - 2:i]) <= 26:
-                dp[i] += slast
+            if 1 <= int(a) <= 26:
+                c += self.find(j + 1, s, c, dp)
 
-        return dp[n]
+        dp[i] = c
+        return c
+
+    def numDecodings(self, s):
+        dp = {}
+        return self.find(0, s, 0, dp)
