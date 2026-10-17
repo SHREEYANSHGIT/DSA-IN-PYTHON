@@ -152,6 +152,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0127-word-ladder) |
@@ -377,6 +378,7 @@
 | [0064-minimum-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0139-word-break) |
