@@ -41,6 +41,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0525-contiguous-array) |
@@ -390,6 +391,7 @@
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0746-min-cost-climbing-stairs) |
@@ -527,6 +529,7 @@
 | [0131-palindrome-partitioning](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1219-path-with-maximum-gold) |
 ## Graph Theory
 |  |
@@ -639,6 +642,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -655,4 +659,8 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
