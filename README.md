@@ -70,6 +70,7 @@
 | [1219-path-with-maximum-gold](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1219-path-with-maximum-gold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -217,6 +218,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
