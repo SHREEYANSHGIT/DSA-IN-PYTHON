@@ -41,6 +41,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0523-continuous-subarray-sum) |
@@ -171,6 +172,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0648-replace-words) |
@@ -399,6 +401,7 @@
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0583-delete-operation-for-two-strings) |
@@ -653,6 +656,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -674,5 +678,6 @@
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
