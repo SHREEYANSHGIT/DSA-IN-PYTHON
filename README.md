@@ -317,6 +317,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
@@ -363,6 +365,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1091-shortest-path-in-binary-matrix) |
