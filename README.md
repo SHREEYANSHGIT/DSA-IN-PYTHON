@@ -315,6 +315,7 @@
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -334,6 +335,7 @@
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
@@ -359,6 +361,7 @@
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -379,6 +382,7 @@
 | [0279-perfect-squares](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0785-is-graph-bipartite) |
