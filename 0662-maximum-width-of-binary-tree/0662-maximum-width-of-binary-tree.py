@@ -16,20 +16,19 @@ class Solution(object):
 
         while queue:
             level += 1
-                
-            lm = float("inf")
-            rm = float("-inf")
+
+            lm = queue[0][1]
+            rm = queue[-1][1]
+            maxi = max(maxi,rm - lm +1)
 
             for _ in range(len(queue)):
                 e,pos = queue.popleft()
-                lm = min(lm,pos)
-                rm = max(rm,pos)
 
                 if e.left is not None:
                     queue.append((e.left,2*pos))
                     
                 if e.right is not None:
                     queue.append((e.right,2*pos+1))
-            maxi = max(maxi,rm - lm +1)
+            
 
         return maxi
