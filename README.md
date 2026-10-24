@@ -312,6 +312,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
@@ -334,6 +335,7 @@
 | [0200-number-of-islands](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
@@ -362,6 +364,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
@@ -655,6 +658,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0538-convert-bst-to-greater-tree) |
 ## Trie
 |  |
@@ -706,9 +710,11 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
