@@ -206,6 +206,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0875-koko-eating-bananas) |
@@ -316,6 +317,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
@@ -372,6 +374,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0437-path-sum-iii) |
@@ -623,6 +626,7 @@
 | [0078-subsets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0231-power-of-two) |
 | [0473-matchsticks-to-square](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0476-number-complement) |
