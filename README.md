@@ -299,6 +299,7 @@
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1019-next-greater-node-in-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -472,6 +473,7 @@
 | [0402-remove-k-digits](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
@@ -544,10 +546,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
