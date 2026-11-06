@@ -117,6 +117,7 @@
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1710-maximum-units-on-a-truck](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
@@ -184,6 +185,7 @@
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -302,6 +304,7 @@
 | [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
@@ -475,6 +478,7 @@
 | [0739-daily-temperatures](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
