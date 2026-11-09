@@ -1,20 +1,18 @@
 class Solution(object):
     def scoreOfParentheses(self, s):
-        st = []
+        
         c = 0
+        x = 0
         
         for i in range(len(s)):
             if s[i] == "(":
-                st.append(c)
-                c = 0
-            
+                x += 1
+
             elif s[i] == ")":
+                x -=1
                 if s[i-1] == "(":
-                    c = st[-1] + 1
-                else:
-                    c = st[-1] + (2*c)
-                st.pop()
-        
+                    c += 2**x
+                
         return c
 
 
