@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0064-minimum-path-sum) |
@@ -494,6 +495,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
@@ -653,6 +655,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
