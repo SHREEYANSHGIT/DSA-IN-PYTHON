@@ -1,22 +1,19 @@
 class Solution(object):
-    def find(self,i,nums,flag,dp):
-        if i >= len(nums):
-            return 0
-        if dp[i][flag] != -1:
-            return dp[i][flag]
-        skip = self.find(i+1 ,nums , flag,dp)
-        val = nums[i]
-
-        if flag == False:
-            val = -val
-
-        x = not flag
-        take = val + self.find(i+1 ,nums , x,dp)
-
-        dp[i][flag] = max(take,skip)
-        return dp[i][flag]
         
     def maxAlternatingSum(self, nums):
         n = len(nums)
-        dp = [[-1 for _ in range(2)] for _ in range(n)]
-        return self.find(0 ,nums , True,dp)
+        dp = [[0 for _ in range(2)] for _ in range(n+1)]
+        lastodd = 0
+        lasteven = 0 
+        neweven = 0
+        newodd = 0
+
+
+        for i in range(1,n+1):
+            neweven = max(lastodd - nums[i-1] , neweven)
+            newodd = max(lasteven + nums[i-1] , newodd)
+            lasteven = neweven 
+            lastodd = newodd 
+
+
+        return max(newodd, neweven)
