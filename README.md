@@ -69,6 +69,7 @@
 | [0994-rotting-oranges](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1219-path-with-maximum-gold) |
@@ -105,6 +106,7 @@
 | [0633-sum-of-square-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
+| [1048-longest-string-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1048-longest-string-chain) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -155,6 +157,7 @@
 | [0904-fruit-into-baskets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1048-longest-string-chain) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -191,6 +194,7 @@
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1143-longest-common-subsequence) |
@@ -472,6 +476,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1143-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -516,6 +521,7 @@
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1710-maximum-units-on-a-truck) |
