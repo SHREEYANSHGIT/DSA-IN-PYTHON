@@ -51,6 +51,7 @@
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
@@ -117,6 +118,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -464,6 +466,7 @@
 | [0494-target-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -511,6 +514,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -718,6 +722,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0646-maximum-length-of-pair-chain) |
 ## Longest Common Subsequence
 |  |
 | ------- |
