@@ -238,6 +238,7 @@
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -479,6 +480,7 @@
 | [1048-longest-string-chain](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1143-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1976-number-of-ways-to-arrive-at-destination) |
