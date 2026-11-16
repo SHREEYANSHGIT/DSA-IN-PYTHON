@@ -199,6 +199,7 @@
 | [1108-defanging-an-ip-address](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -707,6 +708,7 @@
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search Tree
