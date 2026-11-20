@@ -86,6 +86,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3169-count-days-without-meetings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -531,6 +532,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1710-maximum-units-on-a-truck) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3169-count-days-without-meetings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3169-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
