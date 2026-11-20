@@ -85,6 +85,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Two Pointers
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -528,6 +530,7 @@
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1710-maximum-units-on-a-truck) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
