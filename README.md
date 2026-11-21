@@ -87,6 +87,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3169-count-days-without-meetings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3169-count-days-without-meetings) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -386,6 +390,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2596-check-knight-tour-configuration) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
