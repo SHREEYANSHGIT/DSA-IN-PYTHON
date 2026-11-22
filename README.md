@@ -203,6 +203,7 @@
 | [1108-defanging-an-ip-address](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/2390-removing-stars-from-a-string) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
