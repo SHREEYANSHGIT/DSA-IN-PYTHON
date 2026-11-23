@@ -74,6 +74,7 @@
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1219-path-with-maximum-gold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
@@ -245,6 +246,7 @@
 | [0724-find-pivot-index](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1352-product-of-the-last-k-numbers) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1480-running-sum-of-1d-array) |
@@ -299,6 +301,7 @@
 | [0523-continuous-subarray-sum](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -584,11 +587,13 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1352-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
 | ------- |
