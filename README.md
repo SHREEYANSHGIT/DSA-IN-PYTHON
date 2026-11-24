@@ -89,6 +89,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3169-count-days-without-meetings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3169-count-days-without-meetings) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -799,4 +802,12 @@
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
