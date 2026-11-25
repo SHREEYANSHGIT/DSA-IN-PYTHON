@@ -90,6 +90,7 @@
 | [3169-count-days-without-meetings](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3169-count-days-without-meetings) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0875-koko-eating-bananas](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -810,4 +813,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SHREEYANSHGIT/DSA-IN-PYTHON/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
